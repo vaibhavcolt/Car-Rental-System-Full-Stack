@@ -33,12 +33,19 @@ A full-stack web application for renting cars with secure authentication, dynami
 ## 📦 Project Structure
 
 Car-Rental-System/ 
+
 ├── backend/ (Spring Boot) │
+
 ├── src/main/java/com/rental │
+
 ├── config/ (JWT, Security) │
+
 ├── controller/ │ 
+
 ├── service/ │ 
+
 ├── repository/ │
+
 └── model/
 
 ├── frontend/ (React) │
