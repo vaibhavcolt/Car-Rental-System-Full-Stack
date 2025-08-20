@@ -1,0 +1,32 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-footer {
+  flex: 1;
+}
+
+button {
+  background-color: orange;
+  color: black;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff6600;
+}
