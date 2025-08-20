@@ -49,9 +49,15 @@ Car-Rental-System/
 └── model/
 
 ├── frontend/ (React) │
-├── src/ │ │
+
+├── src/ │ 
+
 ├── components/ │ 
-│ ├── pages/ │ │
+
+├── pages/ │ │
+
 ├── services/ │ 
+
 │ └── App.js 
+
 └── README.md
